@@ -7,7 +7,7 @@
       <a class="block leading-none hover:opacity-55 transition-opacity duration-200" href="mailto:info@samglobal.agency?subject=Talk%20to%20me!" rel="nofollow"><UIcon class="block ml-6 text-3xl" name="i-bi-envelope" dynamic /></a>
     </div>
   </header>
-  <div class="flex flex-col justify-center h-svh md:h-screen w-screen max-w-full overflow-hidden text-black text-xl">
+  <div class="flex flex-col justify-center h-svh md:h-screen w-screen max-w-full overflow-hidden text-black text-xl content">
     <div class="py-2.5 border-b border-black marquee marquee--fit-content">
       <div class="marquee__content">
         <p><UIcon class="mr-2.5" name="i-streamline:arrow-reload-horizontal-1" dynamic />We're going through changes</p>
@@ -94,6 +94,9 @@
   .logo {
     max-width: 250px;
     height: auto;
+  }
+  .content {
+    padding-top: 2.6em;
   }
   .marquee {
     --gap: 0.75rem;
