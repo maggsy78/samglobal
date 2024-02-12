@@ -78,7 +78,6 @@
     </div>
   </div>
   <footer class="absolute bottom-7 left-0 flex items-end justify-between w-full px-7 text-black">
-    <p><span class="block text-lg md:text-2xl">SAM Global</span> Sherwood Artist Management</p>
     <a class="hover:opacity-55 hover:underline transition-opacity duration-200" href="mailto:info@samglobal.agency?subject=Talk%20to%20me!">info@samglobal.agency</a>
   </footer>
 </template>
