@@ -3,7 +3,7 @@
     <NuxtImg class="max-w-40 absolute top-7 left-7 sm:max-w-50 md:max-w-64" src="/images/sam-global.svg" width="1216" height="595" alt="SAM Global logo" />
 
     <div class="flex items-center absolute top-7 right-7 text-black text-2xl">
-      <a class="block leading-none hover:opacity-55 transition-opacity duration-200" href="https://instagram.com" target="_blank" rel="nofollow"><UIcon name="i-bi-instagram" dynamic /></a>
+      <a class="block leading-none hover:opacity-55 transition-opacity duration-200" href="https://www.instagram.com/sherwood_artist_mgmt/" target="_blank" rel="nofollow"><UIcon name="i-bi-instagram" dynamic /></a>
       <a class="block leading-none hover:opacity-55 transition-opacity duration-200" href="mailto:info@samglobal.agency?subject=Talk%20to%20me!" rel="nofollow"><UIcon class="block ml-6 text-3xl" name="i-bi-envelope" dynamic /></a>
     </div>
   </header>
@@ -28,34 +28,52 @@
     </div>
     <div class="py-3.5 border-b border-black marquee marquee--fit-content">
       <div class="marquee__content marquee2">
-        <p><NuxtImg class="inline-block mr-2.5" src="/images/sam-icon.svg" width="26" height="20" alt="SAM Global icon" />Sherwood Management and PR is now SAM Global</p>
-        <p><NuxtImg class="inline-block mr-2.5" src="/images/sam-icon.svg" width="26" height="20" alt="SAM Global icon" />Sherwood Management and PR is now SAM Global</p>
-        <p><NuxtImg class="inline-block mr-2.5" src="/images/sam-icon.svg" width="26" height="20" alt="SAM Global icon" />Sherwood Management and PR is now SAM Global</p>
-        <p><NuxtImg class="inline-block mr-2.5" src="/images/sam-icon.svg" width="26" height="20" alt="SAM Global icon" />Sherwood Management and PR is now SAM Global</p>
+        <p><NuxtImg class="inline-block mr-2.5" src="/images/sam-icon.svg" width="26" height="20" alt="SAM Global icon" />Sherwood Artist Management is now SAM Global</p>
+        <p><NuxtImg class="inline-block mr-2.5" src="/images/sam-icon.svg" width="26" height="20" alt="SAM Global icon" />Sherwood Artist Management is now SAM Global</p>
+        <p><NuxtImg class="inline-block mr-2.5" src="/images/sam-icon.svg" width="26" height="20" alt="SAM Global icon" />Sherwood Artist Management is now SAM Global</p>
+        <p><NuxtImg class="inline-block mr-2.5" src="/images/sam-icon.svg" width="26" height="20" alt="SAM Global icon" />Sherwood Artist Management is now SAM Global</p>
       </div>
       <div class="marquee__content marquee2">
-        <p><NuxtImg class="inline-block mr-2.5" src="/images/sam-icon.svg" width="26" height="20" alt="SAM Global icon" />Sherwood Management and PR is now SAM Global</p>
-        <p><NuxtImg class="inline-block mr-2.5" src="/images/sam-icon.svg" width="26" height="20" alt="SAM Global icon" />Sherwood Management and PR is now SAM Global</p>
-        <p><NuxtImg class="inline-block mr-2.5" src="/images/sam-icon.svg" width="26" height="20" alt="SAM Global icon" />Sherwood Management and PR is now SAM Global</p>
-        <p><NuxtImg class="inline-block mr-2.5" src="/images/sam-icon.svg" width="26" height="20" alt="SAM Global icon" />Sherwood Management and PR is now SAM Global</p>
+        <p><NuxtImg class="inline-block mr-2.5" src="/images/sam-icon.svg" width="26" height="20" alt="SAM Global icon" />Sherwood Artist Management is now SAM Global</p>
+        <p><NuxtImg class="inline-block mr-2.5" src="/images/sam-icon.svg" width="26" height="20" alt="SAM Global icon" />Sherwood Artist Management is now SAM Global</p>
+        <p><NuxtImg class="inline-block mr-2.5" src="/images/sam-icon.svg" width="26" height="20" alt="SAM Global icon" />Sherwood Artist Management is now SAM Global</p>
+        <p><NuxtImg class="inline-block mr-2.5" src="/images/sam-icon.svg" width="26" height="20" alt="SAM Global icon" />Sherwood Artist Management is now SAM Global</p>
+      </div>
+    </div>
+    <div class="py-3.5 border-b border-black marquee marquee--fit-content">
+      <div class="marquee__content marquee3">
+        <p><UIcon class="mr-1.5 text-2xl" name="i-tabler:chevron-right" dynamic />Website under development</p>
+        <p><UIcon class="mr-1.5 text-2xl" name="i-tabler:chevron-right" dynamic />Website under development</p>
+        <p><UIcon class="mr-1.5 text-2xl" name="i-tabler:chevron-right" dynamic />Website under development</p>
+        <p><UIcon class="mr-1.5 text-2xl" name="i-tabler:chevron-right" dynamic />Website under development</p>
+        <p><UIcon class="mr-1.5 text-2xl" name="i-tabler:chevron-right" dynamic />Website under development</p>
+        <p><UIcon class="mr-1.5 text-2xl" name="i-tabler:chevron-right" dynamic />Website under development</p>
+      </div>
+      <div class="marquee__content marquee3">
+        <p><UIcon class="mr-1.5 text-2xl" name="i-tabler:chevron-right" dynamic />Website under development</p>
+        <p><UIcon class="mr-1.5 text-2xl" name="i-tabler:chevron-right" dynamic />Website under development</p>
+        <p><UIcon class="mr-1.5 text-2xl" name="i-tabler:chevron-right" dynamic />Website under development</p>
+        <p><UIcon class="mr-1.5 text-2xl" name="i-tabler:chevron-right" dynamic />Website under development</p>
+        <p><UIcon class="mr-1.5 text-2xl" name="i-tabler:chevron-right" dynamic />Website under development</p>
+        <p><UIcon class="mr-1.5 text-2xl" name="i-tabler:chevron-right" dynamic />Website under development</p>
       </div>
     </div>
     <div class="py-3 marquee marquee--fit-content">
-      <div class="marquee__content marquee3">
-        <p><UIcon class="mr-1.5 text-2xl" name="i-tabler:chevron-right" dynamic />Website under development</p>
-        <p><UIcon class="mr-1.5 text-2xl" name="i-tabler:chevron-right" dynamic />Website under development</p>
-        <p><UIcon class="mr-1.5 text-2xl" name="i-tabler:chevron-right" dynamic />Website under development</p>
-        <p><UIcon class="mr-1.5 text-2xl" name="i-tabler:chevron-right" dynamic />Website under development</p>
-        <p><UIcon class="mr-1.5 text-2xl" name="i-tabler:chevron-right" dynamic />Website under development</p>
-        <p><UIcon class="mr-1.5 text-2xl" name="i-tabler:chevron-right" dynamic />Website under development</p>
+      <div class="marquee__content marquee4">
+        <p>SAM Global: Talent + Brands = <UIcon name="i-emojione-v1:red-heart" dynamic /></p>
+        <p>SAM Global: Talent + Brands = <UIcon name="i-emojione-v1:red-heart" dynamic /></p>
+        <p>SAM Global: Talent + Brands = <UIcon name="i-emojione-v1:red-heart" dynamic /></p>
+        <p>SAM Global: Talent + Brands = <UIcon name="i-emojione-v1:red-heart" dynamic /></p>
+        <p>SAM Global: Talent + Brands = <UIcon name="i-emojione-v1:red-heart" dynamic /></p>
+        <p>SAM Global: Talent + Brands = <UIcon name="i-emojione-v1:red-heart" dynamic /></p>
       </div>
-      <div class="marquee__content marquee3">
-        <p><UIcon class="mr-1.5 text-2xl" name="i-tabler:chevron-right" dynamic />Website under development</p>
-        <p><UIcon class="mr-1.5 text-2xl" name="i-tabler:chevron-right" dynamic />Website under development</p>
-        <p><UIcon class="mr-1.5 text-2xl" name="i-tabler:chevron-right" dynamic />Website under development</p>
-        <p><UIcon class="mr-1.5 text-2xl" name="i-tabler:chevron-right" dynamic />Website under development</p>
-        <p><UIcon class="mr-1.5 text-2xl" name="i-tabler:chevron-right" dynamic />Website under development</p>
-        <p><UIcon class="mr-1.5 text-2xl" name="i-tabler:chevron-right" dynamic />Website under development</p>
+      <div class="marquee__content marquee4">
+        <p>SAM Global: Talent + Brands = <UIcon name="i-emojione-v1:red-heart" dynamic /></p>
+        <p>SAM Global: Talent + Brands = <UIcon name="i-emojione-v1:red-heart" dynamic /></p>
+        <p>SAM Global: Talent + Brands = <UIcon name="i-emojione-v1:red-heart" dynamic /></p>
+        <p>SAM Global: Talent + Brands = <UIcon name="i-emojione-v1:red-heart" dynamic /></p>
+        <p>SAM Global: Talent + Brands = <UIcon name="i-emojione-v1:red-heart" dynamic /></p>
+        <p>SAM Global: Talent + Brands = <UIcon name="i-emojione-v1:red-heart" dynamic /></p>
       </div>
     </div>
   </div>
@@ -109,6 +127,10 @@
   }
   .marquee3 {
     animation-duration: 38s;
+  }
+  .marquee4 {
+    animation-direction: reverse;
+    animation-duration: 45s;
   }
   @keyframes marquee {
     0% {
